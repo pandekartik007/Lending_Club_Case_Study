@@ -1,52 +1,30 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Lending Club, a consumer finance marketplace, connects borrowers seeking loans with investors aiming to lend money for returns. The company specializes in offering various types of loans to urban customers. When a loan application is received, the company must decide whether to approve or reject the loan based on the applicant's profile.
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+In this case study, we will utilize Exploratory Data Analysis (EDA) to examine how consumer and loan attributes impact the likelihood of default. By identifying high-risk loan applicants, we can reduce the number of such loans and minimize credit losses. The primary goal of this case study is to pinpoint these at-risk applicants through EDA.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Refer to lending_club_case_study.pdf to view the detailed conclusion
+- Refer to lending_club_case_study.ipynb to view the source code for the analysis
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- Python
+- Pandas
+- Numpy
+- MatPlotLib
+- Plotly
+- Seaborn
+- Jupyter notebook
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@pandekartik007] - feel free to contact me!
